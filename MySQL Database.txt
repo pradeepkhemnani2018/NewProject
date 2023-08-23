@@ -1,0 +1,8 @@
+Database
+u225481723_reactproject
+
+Username
+u225481723_reactmysql
+
+Password
+ReactNew2023$
